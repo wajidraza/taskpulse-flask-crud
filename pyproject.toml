@@ -1,0 +1,7 @@
+[project]
+name = "taskpulse-flask-crud"
+version = "1.0.0"
+description = "High-throughput asynchronous task and ticket management engine with priority queues, background workers, and email notifications."
+authors = [{name = "Wajid Raza", email = "wajidrazapk@outlook.com"}]
+readme = "README.md"
+requires-python = ">=3.9"
